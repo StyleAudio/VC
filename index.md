@@ -180,36 +180,6 @@ In this experiment, speech from VCTK is used as the target speaker, while speech
 ### Target Speaker p231
 Target Speech: <audio controls style="width: 30%; margin: 15px 0;"><source src="wavs/Origins/p231_001_002_003.wav" type="audio/wav"> </audio>
 
-
-<ruby>Text: He hoped there would be stew for dinner, turnips and carrots and bruised potatoes and fat mutton pieces to be ladled out in thick peppered flour-fattened sauce. Stuff it into you, his belly counselled him.</ruby>
-<table>
-	<thead>
-		<tr>
-			<th style="text-align: center">Source</th>
-            <th style="text-align: center">Conan</th>
-			<th style="text-align: center">Conan (fastest)</th>
-			<th style="text-align: center">StreamVC</th>
-            <th style="text-align: center">QuickVC</th>
-			<th style="text-align: center">DiffVC</th>
-			<th style="text-align: center">VQMIVC</th>
-            <th style="text-align: center">PPGVC</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/Origins/Source_Origin_1.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/p231/Conan/1.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/p231/Conan_fastest/1.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/p231/StreamVC/1.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/p231/QuickVC/1.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/p231/DiffVC/1.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/p231/VQMIVC/1.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/p231/PPGVC/1.wav" type="audio/wav"></audio></td>
-
-		</tr>
-	</tbody>
-</table>
-
 <ruby>Text: He shrugged his shoulders in ungracious acquiescence, while our visitor in hurried words and with much excitable gesticulation poured forth his story.</ruby>
 <table>
 	<thead>
